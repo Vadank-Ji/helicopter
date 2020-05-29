@@ -18,7 +18,7 @@ function setup()
   engine = Engine.create();
   world = engine.world;
 
- 	box1 = new Box(200, 200, 50, 50)
+ 	box1 = new Box(100, 200, 50, 50)
 
  var is_static = { isStatic: true}
 
